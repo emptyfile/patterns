@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc4763ac-7f1d-4fb2-b370-50ed053c5b1e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/State/Doctor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/State/Inspecting.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/State/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/State/NotWorking.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/State/OnDuty.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/State/State.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Strategy/InspectStrategy.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Strategy/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Strategy/Patient.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Strategy/Therapist.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Strategy/Traumatologist.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/State/Doctor.java" afterPath="$PROJECT_DIR$/src/com/company/State/Doctor.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/State/Inspecting.java" afterPath="$PROJECT_DIR$/src/com/company/State/Inspecting.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/State/NotWorking.java" afterPath="$PROJECT_DIR$/src/com/company/State/NotWorking.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/State/OnDuty.java" afterPath="$PROJECT_DIR$/src/com/company/State/OnDuty.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,15 +21,13 @@
       <file leaf-file-name="Doctor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/State/Doctor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="60">
+              <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
               <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -46,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/Strategy/InspectStrategy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
-              <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+              <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -88,11 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Traumatologist.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Traumatologist.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Strategy/Traumatologist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="40">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -112,122 +103,28 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/State/NotWorking.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/State/Main.java">
+      <file leaf-file-name="OnDuty.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/State/OnDuty.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+            <state relative-caret-position="120">
+              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JAVA/com.company.State" pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/com.company.State">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>com.company.State</OriginalElement>
-              <nodes>
-                <node x="255.41060606060609" y="0.0">com.company.State.State</node>
-                <node x="192.0" y="225.0">com.company.State.NotWorking</node>
-                <node x="276.5109848484849" y="101.0">com.company.State.Doctor</node>
-                <node x="263.25" y="346.0">com.company.State.Main</node>
-                <node x="396.0" y="225.0">com.company.State.OnDuty</node>
-                <node x="0.0" y="225.0">com.company.State.Inspecting</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="com.company.State.Main" target="com.company.State.NotWorking">
-                  <point x="-10.5625" y="-25.5" />
-                  <point x="337.1875" y="296.0" />
-                  <point x="321.0" y="296.0" />
-                  <point x="43.0" y="25.5" />
-                </edge>
-                <edge source="com.company.State.Main" target="com.company.State.Doctor">
-                  <point x="10.5625" y="-25.5" />
-                  <point x="358.3125" y="316.0" />
-                  <point x="374.5" y="316.0" />
-                  <point x="0.0" y="37.0" />
-                </edge>
-                <edge source="com.company.State.Inspecting" target="com.company.State.State">
-                  <point x="-43.0" y="-25.5" />
-                  <point x="43.0" y="71.0" />
-                  <point x="269.74393939393946" y="71.0" />
-                  <point x="-71.66666666666666" y="25.5" />
-                </edge>
-                <edge source="com.company.State.NotWorking" target="com.company.State.State">
-                  <point x="-43.0" y="-25.5" />
-                  <point x="235.0" y="81.0" />
-                  <point x="298.4106060606061" y="81.0" />
-                  <point x="-43.0" y="25.5" />
-                </edge>
-                <edge source="com.company.State.Doctor" target="com.company.State.State">
-                  <point x="0.0" y="-37.0" />
-                  <point x="373.5109848484849" y="81.0" />
-                  <point x="355.74393939393946" y="81.0" />
-                  <point x="14.333333333333343" y="25.5" />
-                </edge>
-                <edge source="com.company.State.OnDuty" target="com.company.State.State">
-                  <point x="43.0" y="-25.5" />
-                  <point x="525.0" y="71.0" />
-                  <point x="413.0772727272728" y="71.0" />
-                  <point x="71.66666666666671" y="25.5" />
-                </edge>
-                <edge source="com.company.State.State" target="com.company.State.Doctor">
-                  <point x="43.00000000000003" y="25.5" />
-                  <point x="384.41060606060614" y="81.0" />
-                  <point x="438.1776515151516" y="81.0" />
-                  <point x="64.6666666666667" y="-37.0" />
-                </edge>
-                <edge source="com.company.State.Main" target="com.company.State.OnDuty">
-                  <point x="52.8125" y="-25.5" />
-                  <point x="400.5625" y="316.0" />
-                  <point x="439.0" y="316.0" />
-                  <point x="-43.0" y="25.5" />
-                </edge>
-                <edge source="com.company.State.Inspecting" target="com.company.State.Doctor">
-                  <point x="43.0" y="-25.5" />
-                  <point x="129.0" y="200.0" />
-                  <point x="295.9109848484849" y="200.0" />
-                  <point x="-77.6" y="37.0" />
-                </edge>
-                <edge source="com.company.State.OnDuty" target="com.company.State.Doctor">
-                  <point x="-43.0" y="-25.5" />
-                  <point x="439.0" y="200.0" />
-                  <point x="451.1109848484849" y="200.0" />
-                  <point x="77.60000000000002" y="37.0" />
-                </edge>
-                <edge source="com.company.State.NotWorking" target="com.company.State.Doctor">
-                  <point x="43.0" y="-25.5" />
-                  <point x="321.0" y="200.0" />
-                  <point x="334.7109848484849" y="200.0" />
-                  <point x="-38.80000000000001" y="37.0" />
-                </edge>
-                <edge source="com.company.State.Main" target="com.company.State.Inspecting">
-                  <point x="-52.8125" y="-25.5" />
-                  <point x="294.9375" y="316.0" />
-                  <point x="129.0" y="316.0" />
-                  <point x="43.0" y="25.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-363.0" y="100.0" />
-              <SelectedNodes />
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-                <Category>Properties</Category>
-                <Category>Inner Classes</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
+      <file leaf-file-name="Inspecting.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/State/Inspecting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -301,16 +198,16 @@
         <option value="$PROJECT_DIR$/src/com/company/Momento/PrivateClinicSystem.java" />
         <option value="$PROJECT_DIR$/src/com/company/Observer/Patient.java" />
         <option value="$PROJECT_DIR$/src/com/company/State/State.java" />
-        <option value="$PROJECT_DIR$/src/com/company/State/Doctor.java" />
-        <option value="$PROJECT_DIR$/src/com/company/State/Inspecting.java" />
-        <option value="$PROJECT_DIR$/src/com/company/State/OnDuty.java" />
-        <option value="$PROJECT_DIR$/src/com/company/State/NotWorking.java" />
         <option value="$PROJECT_DIR$/src/com/company/State/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/Strategy/InspectStrategy.java" />
         <option value="$PROJECT_DIR$/src/com/company/Strategy/Patient.java" />
         <option value="$PROJECT_DIR$/src/com/company/Strategy/Therapist.java" />
         <option value="$PROJECT_DIR$/src/com/company/Strategy/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/Strategy/Traumatologist.java" />
+        <option value="$PROJECT_DIR$/src/com/company/State/Doctor.java" />
+        <option value="$PROJECT_DIR$/src/com/company/State/NotWorking.java" />
+        <option value="$PROJECT_DIR$/src/com/company/State/OnDuty.java" />
+        <option value="$PROJECT_DIR$/src/com/company/State/Inspecting.java" />
       </list>
     </option>
   </component>
@@ -341,8 +238,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -368,12 +266,27 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ArchitectProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArchitectProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="State" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArchitectProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArchitectProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Strategy" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -573,7 +486,8 @@
       <workItem from="1525703225794" duration="6277000" />
       <workItem from="1525774136466" duration="1924000" />
       <workItem from="1526246308384" duration="947000" />
-      <workItem from="1526301423424" duration="3364000" />
+      <workItem from="1526301423424" duration="3437000" />
+      <workItem from="1526379269428" duration="108000" />
     </task>
     <task id="LOCAL-00001" summary="Added Momento and Observer patterns.">
       <created>1525712953121</created>
@@ -582,29 +496,36 @@
       <option name="project" value="LOCAL" />
       <updated>1525712953121</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New State and Strategy patterns.">
+      <created>1526316121130</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526316121130</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65769000" />
+    <option name="totallyTimeSpent" value="65950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32717392" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32717392" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33260155" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17324094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1748401" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -616,6 +537,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -657,7 +579,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Momento and Observer patterns." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Momento and Observer patterns." />
+    <MESSAGE value="New State and Strategy patterns." />
+    <option name="LAST_COMMIT_MESSAGE" value="New State and Strategy patterns." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -989,7 +912,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -997,7 +919,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1005,7 +926,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1013,7 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1021,7 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1029,7 +947,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1037,7 +954,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1045,7 +961,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1053,23 +968,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/State/Inspecting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/State/OnDuty.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1088,18 +986,6 @@
           </nodes>
           <notes />
           <edges>
-            <edge source="com.company.State.Main" target="com.company.State.NotWorking">
-              <point x="-10.5625" y="-25.5" />
-              <point x="337.1875" y="296.0" />
-              <point x="321.0" y="296.0" />
-              <point x="43.0" y="25.5" />
-            </edge>
-            <edge source="com.company.State.Main" target="com.company.State.Doctor">
-              <point x="10.5625" y="-25.5" />
-              <point x="358.3125" y="316.0" />
-              <point x="374.5" y="316.0" />
-              <point x="0.0" y="37.0" />
-            </edge>
             <edge source="com.company.State.Inspecting" target="com.company.State.State">
               <point x="-43.0" y="-25.5" />
               <point x="43.0" y="71.0" />
@@ -1112,63 +998,23 @@
               <point x="298.4106060606061" y="81.0" />
               <point x="-43.0" y="25.5" />
             </edge>
-            <edge source="com.company.State.Doctor" target="com.company.State.State">
-              <point x="0.0" y="-37.0" />
-              <point x="373.5109848484849" y="81.0" />
-              <point x="355.74393939393946" y="81.0" />
-              <point x="14.333333333333343" y="25.5" />
-            </edge>
             <edge source="com.company.State.OnDuty" target="com.company.State.State">
               <point x="43.0" y="-25.5" />
               <point x="525.0" y="71.0" />
               <point x="413.0772727272728" y="71.0" />
               <point x="71.66666666666671" y="25.5" />
             </edge>
-            <edge source="com.company.State.State" target="com.company.State.Doctor">
-              <point x="43.00000000000003" y="25.5" />
-              <point x="384.41060606060614" y="81.0" />
-              <point x="438.1776515151516" y="81.0" />
-              <point x="64.6666666666667" y="-37.0" />
-            </edge>
-            <edge source="com.company.State.Main" target="com.company.State.OnDuty">
-              <point x="52.8125" y="-25.5" />
-              <point x="400.5625" y="316.0" />
-              <point x="439.0" y="316.0" />
-              <point x="-43.0" y="25.5" />
-            </edge>
-            <edge source="com.company.State.Inspecting" target="com.company.State.Doctor">
-              <point x="43.0" y="-25.5" />
-              <point x="129.0" y="200.0" />
-              <point x="295.9109848484849" y="200.0" />
-              <point x="-77.6" y="37.0" />
-            </edge>
-            <edge source="com.company.State.OnDuty" target="com.company.State.Doctor">
-              <point x="-43.0" y="-25.5" />
-              <point x="439.0" y="200.0" />
-              <point x="451.1109848484849" y="200.0" />
-              <point x="77.60000000000002" y="37.0" />
-            </edge>
-            <edge source="com.company.State.NotWorking" target="com.company.State.Doctor">
-              <point x="43.0" y="-25.5" />
-              <point x="321.0" y="200.0" />
-              <point x="334.7109848484849" y="200.0" />
-              <point x="-38.80000000000001" y="37.0" />
-            </edge>
-            <edge source="com.company.State.Main" target="com.company.State.Inspecting">
-              <point x="-52.8125" y="-25.5" />
-              <point x="294.9375" y="316.0" />
-              <point x="129.0" y="316.0" />
-              <point x="43.0" y="25.5" />
-            </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-363.0" y="100.0" />
-          <SelectedNodes />
+          <settings layout="Hierarchic Group" zoom="0.8163265306122449" x="284.0" y="198.5" />
+          <SelectedNodes>
+            <node>com.company.State.State</node>
+          </SelectedNodes>
           <Categories>
             <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
             <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
@@ -1183,33 +1029,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/State/NotWorking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/State/Doctor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Strategy/InspectStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -1254,8 +1077,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Strategy/Traumatologist.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="40">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/State/Doctor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/State/NotWorking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/State/OnDuty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/State/Inspecting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
